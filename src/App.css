@@ -1,0 +1,28 @@
+.App {
+  font-family: Arial, sans-serif;
+}
+
+.trademark-item {
+  display: flex;
+  align-items: center;
+}
+
+.image-section img {
+  max-width: 100px;
+}
+
+.info-section h5 {
+  margin: 0;
+}
+
+.filter-sidebar {
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  background-color: #ffffff;
+}
+
+.search-bar {
+  margin-bottom: 20px;
+}
